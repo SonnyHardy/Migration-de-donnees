@@ -1,0 +1,1 @@
+alter table account add telephone varchar(100) not null;
